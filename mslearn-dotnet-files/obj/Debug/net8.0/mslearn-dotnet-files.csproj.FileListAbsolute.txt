@@ -1,0 +1,15 @@
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\bin\Debug\net8.0\mslearn-dotnet-files.exe
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\bin\Debug\net8.0\mslearn-dotnet-files.deps.json
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\bin\Debug\net8.0\mslearn-dotnet-files.runtimeconfig.json
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\bin\Debug\net8.0\mslearn-dotnet-files.dll
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\bin\Debug\net8.0\mslearn-dotnet-files.pdb
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\mslearn-dotnet-files.AssemblyInfo.cs
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\mslearn-dotnet-files.sourcelink.json
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\mslearn-dotnet-files.dll
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\refint\mslearn-dotnet-files.dll
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\mslearn-dotnet-files.pdb
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\mslearn-dotnet-files.genruntimeconfig.cache
+C:\Users\Ed\Documents\ex-projects\mslearn-dotnet-files\obj\Debug\net8.0\ref\mslearn-dotnet-files.dll
